@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CSITahv5Ltpi4bqSk1XqnqgLCyDA8vTwkSFYG7QMdHcb365CYiz/QBzLuu65usoI62hWUp2naFqODuzeVlyehw==",
+  "dgSpecHash": "aXo+m+0+6SwAOUiICipD1HqTyNCmbsrXWYSLe9A7v8vcyOQOKjf7OWWJzCQO3GW4HD0rpz2H3xKMqlNHetzjBQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\danie\\Documents\\Programmering\\Fromage\\htmltest.csproj",
+  "projectFilePath": "c:\\Users\\danie\\Documents\\Programmering\\BonFromage\\htmltest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\bootstrap\\5.3.0-alpha1\\bootstrap.5.3.0-alpha1.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\bootstrap.sass\\5.3.0-alpha1\\bootstrap.sass.5.3.0-alpha1.nupkg.sha512",

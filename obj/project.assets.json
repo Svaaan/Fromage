@@ -1180,11 +1180,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\danie\\Documents\\Programmering\\Fromage\\htmltest.csproj",
+      "projectUniqueName": "c:\\Users\\danie\\Documents\\Programmering\\BonFromage\\htmltest.csproj",
       "projectName": "htmltest",
-      "projectPath": "c:\\Users\\danie\\Documents\\Programmering\\Fromage\\htmltest.csproj",
+      "projectPath": "c:\\Users\\danie\\Documents\\Programmering\\BonFromage\\htmltest.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\danie\\Documents\\Programmering\\Fromage\\obj\\",
+      "outputPath": "c:\\Users\\danie\\Documents\\Programmering\\BonFromage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
